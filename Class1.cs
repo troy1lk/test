@@ -8,5 +8,7 @@ namespace testproject
 {
     public class Class1
     {
+        //hi 
+        //hi2
     }
 }
